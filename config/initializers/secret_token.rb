@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Gallery::Application.config.secret_key_base = '980c37771df0aec8c396a78c83b057aaa696bd5ddd52df62d43f82bd421c918dacab5d4d41640ee01a513e8b7b1ad4be6aed79578f06a1ee0455c67057231b78'
+Gallery::Application.config.secret_key_base = '7458d17e1ad2b63bb48c3c4c7d345112983aee039e0822bfd27922ab5906bd73264e064d4bbe55545f7e39fbc36cbdae3e94c4b7e4d63d696f3a3896d894999c'
